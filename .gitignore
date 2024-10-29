@@ -1,3 +1,5 @@
+.vscode/*
+
 # Prerequisites
 *.d
 
@@ -6,6 +8,8 @@
 *.lo
 *.o
 *.obj
+*.pdb
+*.ilk
 
 # Precompiled Headers
 *.gch
@@ -30,3 +34,4 @@
 *.exe
 *.out
 *.app
+vc140.pdb
